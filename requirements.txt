@@ -1,0 +1,22 @@
+python_dotenv
+pandas
+langchain
+langchain_community
+langchain_experimental
+langgraph
+langserve[all]
+langchain_groq
+langchain-huggingface
+huggingface-hub
+transformers
+pydantic[all]
+pypdf
+grandalf
+chromadb
+lancedb
+wikipedia
+# fasis-cpu
+agno
+tantivy
+duckduckgo-search
+email_validator
