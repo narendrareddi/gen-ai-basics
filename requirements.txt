@@ -20,3 +20,4 @@ agno
 tantivy
 duckduckgo-search
 email_validator
+youtube-transcript-api
