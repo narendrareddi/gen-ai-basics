@@ -1,3 +1,38 @@
 chroma
+# Environment files
+.env.local
 .env
+# Virtual environment directories
+.venv/
+.virtualenv/
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Json files
 *.json
+# Ignore all node_modules directories
+node_modules/
+# Ignore all log files
+*.log
+# Ignore all build directories
+build/
+# Ignore all coverage directories
+coverage/
+# Ignore all temporary files
+*.tmp
+# Ignore all cache directories
+.cache/
+# Ignore all IDE specific files
+.idea/
+# Ignore all OS generated files
+.DS_Store
+# Ignore all backup files
+*~
+# Ignore all test output files
+test-output/
+# Ignore all distribution files
+dist/
+# Ignore all documentation files
+docs/
