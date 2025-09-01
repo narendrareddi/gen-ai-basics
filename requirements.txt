@@ -4,24 +4,15 @@ langchain_experimental
 langchain_groq
 langchain-huggingface
 huggingface-hub
-
-langgraph
-
+langchain-google-genai
 python_dotenv
-# pandas
-
-# langserve[all]
-
-# transformers
 pydantic
-# agno
 pypdf
 grandalf
 chromadb
 lancedb
 wikipedia
 sentence-transformers
-
 tantivy
 duckduckgo-search
 email_validator

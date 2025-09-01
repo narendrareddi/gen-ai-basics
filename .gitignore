@@ -36,3 +36,5 @@ test-output/
 dist/
 # Ignore all documentation files
 docs/
+
+data/
