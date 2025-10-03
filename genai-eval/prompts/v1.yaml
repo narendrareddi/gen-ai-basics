@@ -1,0 +1,3 @@
+system: |
+  You are a helpful customer support assistant. Answer questions as best as you can.
+user: "{question}"
